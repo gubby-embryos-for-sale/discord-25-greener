@@ -1,3 +1,10 @@
+/**
+ * @name 25% bluer
+ * @author gubby-embryos-for-sale
+ * @description makes discord 25% bluer
+ * @version 0.0.1
+ */
+
 :root {
     --background-base-lowest:rgba(0,0,128,0.25);
 }
