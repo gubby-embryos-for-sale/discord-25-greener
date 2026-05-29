@@ -1,3 +1,4 @@
+/* special thanks to https://meyerweb.com/eric/tools/color-blend/#7F0000:7F7F00:3:rgbd for the color mixing tool */
 :root {
     --background-base-lowest:rgba(128,96,0,1);
 }
