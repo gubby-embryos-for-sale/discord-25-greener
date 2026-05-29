@@ -1,0 +1,6 @@
+:root {
+    --background-base-lowest:rgba(0,0,128,0.25);
+}
+#app-mount{
+    mix-blend-mode: overlay;
+}
