@@ -1,6 +1,4 @@
-# discord but 25% greener
-i made this in like 5 minutes in quick css dont expect it to be maintained  
-~i dont even know if this works in most discord clients i wrote it while using [shelter](https://shelter.uwu.network/) which has custmo components i think~
+### hi on this repo you wil find works of art such as
+- discord but 25% greener
 
-~it might flashbang you on the loading menu but smoetimes~ it doesnt
-
+<sub>and more to come...</sub>
