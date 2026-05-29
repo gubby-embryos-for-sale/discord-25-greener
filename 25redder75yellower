@@ -1,4 +1,9 @@
-/* special thanks to https://meyerweb.com/eric/tools/color-blend/#7F0000:7F7F00:3:rgbd for the color mixing tool */
+/**
+ * @name 25% redder 75% yellower
+ * @author gubby-embryos-for-sale
+ * @description makes discord 25% redder, 75% yellower. special thanks to https://meyerweb.com/eric/tools/color-blend/#7F0000:7F7F00:3:rgbd for the color mixing tool
+ * @version 0.0.2
+ */
 :root {
     --background-base-lowest:rgba(128,96,0,1);
 }
